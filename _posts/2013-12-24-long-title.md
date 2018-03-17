@@ -5,6 +5,7 @@ categories:
 - Foo
 tags:
 - Foo
+- example
 ---
 
 This post has a long title. Make sure the title displayed right.

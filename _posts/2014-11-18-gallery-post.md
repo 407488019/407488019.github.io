@@ -10,6 +10,7 @@ photos:
 - http://ww3.sinaimg.cn/mw690/81b78497jw1emfgvcdn25j21hc0u0qpa.jpg
 tags:
 - consectetur
+- example
 description: Gallery Post Test. 测试图片类文章的显示。
 ---
 

@@ -12,7 +12,7 @@ tags:
 >
 > 在 `<footer>` 上方添加一个 `<div id="push-to-bottom"></div>` 将 `<footer>` 挤到屏幕最下方
 
-```
+```js
 // jQuery footer height
 pushtobottom();
 $(window).scroll(pushtobottom).resize(pushtobottom);
