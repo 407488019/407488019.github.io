@@ -6,11 +6,11 @@ tags:
     - js
 ---
 
-## 实现代码
-
 > 如果一个网页的内容很少，就是`<body>` 的高度小于屏幕的高度，那么 `<footer>` 就不在屏幕最下方。
 >
 > 在 `<footer>` 上方添加一个 `<div id="push-to-bottom"></div>` 将 `<footer>` 挤到屏幕最下方
+
+##  代码实现
 
 ```js
 // jQuery footer height
